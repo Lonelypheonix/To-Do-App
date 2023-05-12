@@ -42,7 +42,7 @@ git clone https://github.com/Lonelypheonix/To-Do-App.git
 ```
 go to projet
 ```
-cd tasks-app
+cd To-Do-App
 ```
 install npm
 ```
