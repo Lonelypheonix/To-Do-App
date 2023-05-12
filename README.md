@@ -1,6 +1,9 @@
 # 📅 Tasks App (To-Do List)
 
 To-do list website made with React JS, Tailwind CSS, TypeScript, Redux Toolkit and more.
+![image](https://github.com/Lonelypheonix/To-Do-App/assets/55979659/cdcec2d5-6778-41f5-bdc3-4a4e2d83d295)
+![image](https://github.com/Lonelypheonix/To-Do-App/assets/55979659/d67799bb-6df4-425f-b59c-b2103e5cb25b)
+![image](https://github.com/Lonelypheonix/To-Do-App/assets/55979659/ddbf01cd-4ce1-4101-8f55-73ccd9c006ff)
 
 ![page initiale](https://raw.githubusercontent.com/x1-il/todo-app/main/public/To-Do%20List%20_%20All%20tasks.png)
 ![add task](https://user-images.githubusercontent.com/120943267/236889340-925ea5b6-7b8e-43e3-8021-d568d7e9cdf7.png)
